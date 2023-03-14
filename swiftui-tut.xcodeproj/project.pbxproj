@@ -7,18 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF8BDDE529BFCF530030D3D3 /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8BDDE429BFCF530030D3D3 /* UsersView.swift */; };
+		EF8BDDE729BFDAE70030D3D3 /* InstagramView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8BDDE629BFDAE70030D3D3 /* InstagramView.swift */; };
+		EF908B0129C0745100940738 /* UserRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF908B0029C0745100940738 /* UserRowView.swift */; };
+		EF908B0329C0764300940738 /* MenuItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF908B0229C0764300940738 /* MenuItemView.swift */; };
+		EF908B0629C078D100940738 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF908B0529C078D100940738 /* Restaurant.swift */; };
 		EF970CF829BE2D8100E1AFC0 /* swiftui_tutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF970CF729BE2D8100E1AFC0 /* swiftui_tutApp.swift */; };
 		EF970CFA29BE2D8100E1AFC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF970CF929BE2D8100E1AFC0 /* ContentView.swift */; };
 		EF970CFC29BE2D8700E1AFC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF970CFB29BE2D8700E1AFC0 /* Assets.xcassets */; };
 		EF970CFF29BE2D8700E1AFC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF970CFE29BE2D8700E1AFC0 /* Preview Assets.xcassets */; };
+		EF9FB33C29BFDEB80038E7CF /* RestaurantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9FB33B29BFDEB80038E7CF /* RestaurantsView.swift */; };
+		EF9FB33E29BFE6AE0038E7CF /* InstagramGrids.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9FB33D29BFE6AE0038E7CF /* InstagramGrids.swift */; };
+		EF9FB34129BFE8C50038E7CF /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9FB34029BFE8C50038E7CF /* GridView.swift */; };
+		EF9FB34329C068E20038E7CF /* ControlFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9FB34229C068E20038E7CF /* ControlFlow.swift */; };
+		EFB1AF9B29BFA900007519F8 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB1AF9A29BFA900007519F8 /* Shapes.swift */; };
+		EFB1AF9D29BFB1F3007519F8 /* SpotifyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB1AF9C29BFB1F2007519F8 /* SpotifyView.swift */; };
+		EFD1850B29C092AF00FB1A94 /* Driver.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD1850A29C092AF00FB1A94 /* Driver.swift */; };
+		EFD1850E29C0CAEB00FB1A94 /* InstagramPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD1850D29C0CAEB00FB1A94 /* InstagramPostView.swift */; };
+		EFD1851029C0CB2C00FB1A94 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD1850F29C0CB2C00FB1A94 /* Post.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EF8BDDE429BFCF530030D3D3 /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
+		EF8BDDE629BFDAE70030D3D3 /* InstagramView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramView.swift; sourceTree = "<group>"; };
+		EF908B0029C0745100940738 /* UserRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRowView.swift; sourceTree = "<group>"; };
+		EF908B0229C0764300940738 /* MenuItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemView.swift; sourceTree = "<group>"; };
+		EF908B0529C078D100940738 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 		EF970CF429BE2D8100E1AFC0 /* swiftui-tut.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swiftui-tut.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF970CF729BE2D8100E1AFC0 /* swiftui_tutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_tutApp.swift; sourceTree = "<group>"; };
 		EF970CF929BE2D8100E1AFC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EF970CFB29BE2D8700E1AFC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF970CFE29BE2D8700E1AFC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EF9FB33B29BFDEB80038E7CF /* RestaurantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantsView.swift; sourceTree = "<group>"; };
+		EF9FB33D29BFE6AE0038E7CF /* InstagramGrids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramGrids.swift; sourceTree = "<group>"; };
+		EF9FB34029BFE8C50038E7CF /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
+		EF9FB34229C068E20038E7CF /* ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlFlow.swift; sourceTree = "<group>"; };
+		EFB1AF9A29BFA900007519F8 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		EFB1AF9C29BFB1F2007519F8 /* SpotifyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotifyView.swift; sourceTree = "<group>"; };
+		EFD1850A29C092AF00FB1A94 /* Driver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driver.swift; sourceTree = "<group>"; };
+		EFD1850D29C0CAEB00FB1A94 /* InstagramPostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramPostView.swift; sourceTree = "<group>"; };
+		EFD1850F29C0CB2C00FB1A94 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +60,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EF908AFF29C0743000940738 /* Loops */ = {
+			isa = PBXGroup;
+			children = (
+				EF8BDDE429BFCF530030D3D3 /* UsersView.swift */,
+				EF908B0029C0745100940738 /* UserRowView.swift */,
+				EFD1850A29C092AF00FB1A94 /* Driver.swift */,
+			);
+			path = Loops;
+			sourceTree = "<group>";
+		};
+		EF908B0429C0766100940738 /* ScrollViewUI */ = {
+			isa = PBXGroup;
+			children = (
+				EF908B0229C0764300940738 /* MenuItemView.swift */,
+				EF9FB33B29BFDEB80038E7CF /* RestaurantsView.swift */,
+				EF908B0529C078D100940738 /* Restaurant.swift */,
+			);
+			path = ScrollViewUI;
+			sourceTree = "<group>";
+		};
 		EF970CEB29BE2D8100E1AFC0 = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +99,17 @@
 		EF970CF629BE2D8100E1AFC0 /* swiftui-tut */ = {
 			isa = PBXGroup;
 			children = (
+				EFD1850C29C0CA5F00FB1A94 /* InstagramUI */,
+				EF908B0429C0766100940738 /* ScrollViewUI */,
+				EF908AFF29C0743000940738 /* Loops */,
+				EF9FB33F29BFE8970038E7CF /* Grids */,
 				EF970CF729BE2D8100E1AFC0 /* swiftui_tutApp.swift */,
+				EFB1AF9C29BFB1F2007519F8 /* SpotifyView.swift */,
 				EF970CF929BE2D8100E1AFC0 /* ContentView.swift */,
 				EF970CFB29BE2D8700E1AFC0 /* Assets.xcassets */,
 				EF970CFD29BE2D8700E1AFC0 /* Preview Content */,
+				EFB1AF9A29BFA900007519F8 /* Shapes.swift */,
+				EF9FB34229C068E20038E7CF /* ControlFlow.swift */,
 			);
 			path = "swiftui-tut";
 			sourceTree = "<group>";
@@ -65,6 +120,25 @@
 				EF970CFE29BE2D8700E1AFC0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EF9FB33F29BFE8970038E7CF /* Grids */ = {
+			isa = PBXGroup;
+			children = (
+				EF9FB34029BFE8C50038E7CF /* GridView.swift */,
+			);
+			path = Grids;
+			sourceTree = "<group>";
+		};
+		EFD1850C29C0CA5F00FB1A94 /* InstagramUI */ = {
+			isa = PBXGroup;
+			children = (
+				EF9FB33D29BFE6AE0038E7CF /* InstagramGrids.swift */,
+				EF8BDDE629BFDAE70030D3D3 /* InstagramView.swift */,
+				EFD1850D29C0CAEB00FB1A94 /* InstagramPostView.swift */,
+				EFD1850F29C0CB2C00FB1A94 /* Post.swift */,
+			);
+			path = InstagramUI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +211,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF908B0629C078D100940738 /* Restaurant.swift in Sources */,
+				EFD1850B29C092AF00FB1A94 /* Driver.swift in Sources */,
+				EFB1AF9D29BFB1F3007519F8 /* SpotifyView.swift in Sources */,
+				EF9FB34329C068E20038E7CF /* ControlFlow.swift in Sources */,
 				EF970CFA29BE2D8100E1AFC0 /* ContentView.swift in Sources */,
+				EF8BDDE729BFDAE70030D3D3 /* InstagramView.swift in Sources */,
+				EF9FB33C29BFDEB80038E7CF /* RestaurantsView.swift in Sources */,
 				EF970CF829BE2D8100E1AFC0 /* swiftui_tutApp.swift in Sources */,
+				EF8BDDE529BFCF530030D3D3 /* UsersView.swift in Sources */,
+				EF9FB33E29BFE6AE0038E7CF /* InstagramGrids.swift in Sources */,
+				EF908B0129C0745100940738 /* UserRowView.swift in Sources */,
+				EFD1851029C0CB2C00FB1A94 /* Post.swift in Sources */,
+				EF908B0329C0764300940738 /* MenuItemView.swift in Sources */,
+				EF9FB34129BFE8C50038E7CF /* GridView.swift in Sources */,
+				EFB1AF9B29BFA900007519F8 /* Shapes.swift in Sources */,
+				EFD1850E29C0CAEB00FB1A94 /* InstagramPostView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

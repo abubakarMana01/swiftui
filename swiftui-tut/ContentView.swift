@@ -8,14 +8,16 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var playerCard = "card5"
+    @State private var cpuCard = "card9"
+    @State private var playerScore = 0
+    @State private var cpuScore = 0
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
+        Text("Hello world")
+            .font(.title)
+            .fontWeight(.semibold)
+            .foregroundColor(.pink)
     }
 }
 
